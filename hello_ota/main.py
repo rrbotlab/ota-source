@@ -1,5 +1,4 @@
-print('\n\n\n')
-print('###############')
-print('# OTA Testing #')
-print('# \o/     \o/ #')
-print('###############')
+"""
+update via ota
+"""
+print('\n\nupdate via ota')
